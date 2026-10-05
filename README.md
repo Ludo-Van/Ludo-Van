@@ -1,31 +1,58 @@
-🎯 Je suis un développeur junior passionné par le web, toujours en quête de nouveaux défis et d’opportunités d’apprentissage. J’adore créer des sites et des applications dynamiques, tout en continuant à perfectionner mes compétences. En parallèle, je m’intéresse de plus en plus à la cybersécurité et j’ai pour objectif de me former dans ce domaine passionnant.
+# Ludovic Van Craeyenest
 
-🌱 Langages et technologies que je maîtrise :
+**Futur administrateur systèmes, réseaux et cybersécurité, en recherche d'alternance**
 
-🖥️ HTML5 & CSS3 : Création de pages web structurées et responsive
+> **Je recherche une entreprise d'accueil pour mon alternance**
+>
+> - **Poste** : administrateur systèmes, réseaux et cybersécurité
+> - **Formation** : Bachelor Cybersécurité, NEXA Digital School (2026-2027)
+> - **Rythme** : 1 semaine à l'école, 3 semaines en entreprise
+> - **Secteur** : Île-de-France, Oise, Somme (permis B, véhiculé)
+> - **Disponibilité** : immédiate
+>
+> Contact : [LinkedIn](https://www.linkedin.com/in/ludovic-van-craeyenest-8988a11b8) · vancraeyenest.ludovic@gmail.com
 
-⚙️ JavaScript : Développement interactif côté client
+## Mon parcours
 
-🖋️ PHP : Développement backend et gestion de sites dynamiques
+Avant l'informatique, j'ai passé **9 ans à la Brigade de Sapeurs-Pompiers de Paris**, où j'ai appris à gérer des situations de crise, à appliquer strictement des protocoles et à coordonner une équipe en intervention. J'ai ensuite travaillé **7 ans dans la logistique aéronautique chez DAHER**, un environnement où la qualité et la traçabilité ne tolèrent pas l'approximation.
 
-🗃️ MySQL : Conception et gestion de bases de données relationnelles
+Après un **Titre Professionnel Développeur Web et Web Mobile (Bac+2)**, je me spécialise aujourd'hui dans l'administration systèmes, les réseaux et la cybersécurité. Gérer un incident de sécurité, c'est aussi gérer une crise : c'est cette rigueur que je veux apporter à une équipe informatique.
 
-🔐 Mon objectif en cybersécurité :
-Je suis en train d'explorer les bases de la cybersécurité et je souhaite me former davantage pour comprendre les enjeux liés à la sécurité des applications web et des systèmes. Je suis particulièrement intéressé par :
+## Compétences
 
-La sécurisation des applications web
+| Domaine | Outils et notions |
+|---|---|
+| Systèmes | Windows Server (Active Directory, DHCP, GPO), Linux (ligne de commande) |
+| Réseaux | Cisco Packet Tracer, VLAN, TCP/IP |
+| Sécurité | OWASP, RGPD, EBIOS RM, Nmap |
+| Gestion de parc | GLPI |
+| Cloud | AWS, GCP |
+| Développement | Python, PHP, MySQL, JavaScript |
+| Méthode | Agile / Scrum |
 
-Les tests de vulnérabilité
+## Projets
 
-Les bonnes pratiques en matière de protection des données
+### [scanner-reseau](https://github.com/Ludo-Van/scanner-reseau)
+Script Python qui pilote Nmap pour automatiser la détection de vulnérabilités réseau : scan limité à un périmètre autorisé, détection des services exposés et des versions vulnérables, recherche de CVE, puis rapport en Markdown et JSON.
 
-🔧 Ce que je fais actuellement :
+`Python` `Nmap` `Sécurité réseau`
 
-Développement de sites et d'applications en utilisant HTML, CSS, et JavaScript
+### [moogsink](https://github.com/Ludo-Van/moogsink)
+Plateforme web full-stack développée en autonomie pendant mon stage pour un studio de tatouage. Application sécurisée selon les recommandations de l'OWASP, conforme au RGPD, et pilotée en Agile/Scrum sur 9 sprints jusqu'à la mise en production. Grâce aux paramètres dynamiques, le temps de maintenance a été réduit de 95 %.
 
-Gestion de bases de données avec MySQL
+`PHP` `MySQL` `JavaScript` `OWASP` `RGPD`
 
-Initiation à la cybersécurité via des ressources en ligne et des formations spécialisées
+## Formation et certifications
 
-🚀 Mon objectif :
-Devenir un développeur full-stack avec une expertise en cybersécurité, capable de créer des applications sécurisées et de participer à des projets liés à la protection des données.
+| Statut | Formation ou certification |
+|---|---|
+| En cours | Bachelor Cybersécurité, NEXA Digital School (2026-2027) |
+| Obtenu | Titre Professionnel Développeur Web et Web Mobile (Bac+2), 2025 |
+| En cours | Cisco Networking Academy, Networking Basics |
+| En cours | TryHackMe, Pre Security |
+| Prévu | ISC2 Certified in Cybersecurity (CC) |
+| Prévu | Cisco Networking Academy, Ethical Hacker |
+
+## En dehors du code
+
+Veille en cybersécurité, challenges CTF, nouvelles technologies et jeux vidéo.
